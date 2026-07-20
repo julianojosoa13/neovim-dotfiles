@@ -13,8 +13,6 @@ return {
           "lua_ls",
           "omnisharp",
           "eslint",
-          "typescript-language-server",
-          "ts-standard",
           "harper_ls",
           "clangd",
           "bashls"
@@ -29,8 +27,6 @@ return {
         "lua_ls",
         "omnisharp",
         "eslint",
-        "typescript-language-server",
-        "ts-standard",
         "harper_ls",
         "clangd",
         "bashls",
